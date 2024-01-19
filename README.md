@@ -7,8 +7,6 @@ Welcome to the Rock Paper Scissors game project! This simple web-based game allo
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
